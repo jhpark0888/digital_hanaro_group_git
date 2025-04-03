@@ -15,3 +15,5 @@
 regist 기능수정.
 
 릴리즈 v2 수정
+
+workflow 수정
